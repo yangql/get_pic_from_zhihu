@@ -1,0 +1,2 @@
+# get_pic_from_zhihu
+通过python获取知乎某个答案下的图片
